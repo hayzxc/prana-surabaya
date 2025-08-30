@@ -53,16 +53,6 @@ npm run dev
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-### Default Login Credentials
-
-**Admin Account:**
-- Email: admin@prana.com
-- Password: admin123
-
-**User Account:**
-- Email: user@prana.com
-- Password: user123
-
 ## Project Structure
 
 \`\`\`
